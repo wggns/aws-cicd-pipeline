@@ -26,3 +26,6 @@ Deploy and update static web applications through a CI/CD pipeline
 Configure cloud hosting and monitoring
 
 Integrate front-end development with backend and data services
+Live Preview
+
+![Neon Bite Burger Website Preview](assets/ http://wggns-pipe-site.s3-website.us-east-2.amazonaws.com)
