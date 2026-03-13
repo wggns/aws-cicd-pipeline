@@ -29,3 +29,4 @@ Integrate front-end development with backend and data services
 Live Preview
 
 ![Neon Bite Burger Website Preview](assets/ http://wggns-pipe-site.s3-website.us-east-2.amazonaws.com)
+<img width="2560" height="1080" alt="Screenshot 2026-03-12 214101" src="https://github.com/user-attachments/assets/793af4f0-a362-41c0-98bf-3d97ab9f8409" />
