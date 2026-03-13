@@ -1,4 +1,4 @@
-A CI/CD pipeline stands for Continuous Integration / Continuous Deployment, and it's an automated system that takes my code from being saved on my computer to living on the internet! Without you having to do all the manual steps yourself every time.
+A CI/CD pipeline stands for Continuous Integration / Continuous Deployment, and it's an automated system that takes my code from being saved on my computer to living on the internet without you having to do all the manual steps yourself every time.
 Here's how it breaks down in plain terms:
 Continuous Integration (CI) is the "check my work" phase. Every time you push code changes to GitHub, the pipeline automatically runs checks and things like making sure the code doesn't have obvious errors, tests pass, and nothing is broken. It catches problems early before they ever go live.
 Continuous Deployment (CD) is the "ship it" phase. Once the code passes those checks, the pipeline automatically deploys it to your hosting environment.
